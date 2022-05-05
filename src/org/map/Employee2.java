@@ -20,7 +20,7 @@ public class Employee2 {
 	
 	employee e1=new employee();
 	e1.setEmpid(1);
-	e1.setName("subSH");
+	e1.setName("mari");
 	e1.setPhone(123456l);
 	e1.setAddress("303 west street");
 	e1.setDob(12345);
