@@ -9,7 +9,7 @@ public class Employee2 {
 	public static void main(String[] args) {
 	employee e=new employee();
 	e.setEmpid(0);
-	e.setName("hari");
+	e.setName("harish");
 	e.setPhone(123456l);
 	e.setAddress("303 west street");
 	e.setDob(12345);
