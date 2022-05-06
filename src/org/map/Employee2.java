@@ -10,7 +10,7 @@ public class Employee2 {
 	employee e=new employee();
 	e.setEmpid(0);
 	e.setName("harish");
-	e.setPhone(123456l);
+	e.setPhone(7092581948l);
 	e.setAddress("303 west street");
 	e.setDob(12345);
 	e.setDoj(87654);
